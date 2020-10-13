@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/plase1/Documents/yolo_data/darknet/training/model_single_class/train.txt
+valid  = /home/plase1/Documents/yolo_data/darknet/training/model_single_class/test.txt
+names = /home/plase1/Documents/yolo_data/darknet/training/model_single_class/mymodel.names
+backup = /home/plase1/Documents/yolo_data/darknet/backup/
